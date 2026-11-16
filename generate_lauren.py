@@ -14,15 +14,15 @@ import json
 from pathlib import Path
 
 REASONS = [
+    "Is super nice to everyone she meets",
+    "Is super friendly and makes people feel welcome",
+    "Is very kind, all the way through",
+    "Is very helpful and always ready to pitch in",
+    "Loves spending time with and caring for people with intellectual disabilities and autistic people",
+    "Brings patience and warmth to everyone she looks after",
     "Makes every room brighter just by walking into it",
-    "Gives the best advice, even when you didn't know you needed it",
-    "Has a laugh that's genuinely contagious",
     "Shows up for the people she cares about, every time",
-    "Is smarter than she lets on (and she lets on plenty)",
-    "Turns ordinary days into good stories",
-    "Is kind in a way that actually changes things",
-    "Has impeccable taste",
-    "Makes hard things look easy",
+    "Has a laugh that's genuinely contagious",
     "Is, quite simply, awesome",
 ]
 
